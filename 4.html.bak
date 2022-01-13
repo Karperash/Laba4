@@ -43,13 +43,13 @@
  <form action="result.php" method="POST">
   <div class="row">
     <div class="col">
-      <input type="text" class="form-control" name="a" placeholder="сторона A">
-      <input type="text" class="form-control" name="b" placeholder="сторона B">
-      <input type="text" class="form-control" name="c" placeholder="сторона C">      
+      <input type="text" class="form-control" name="tovar1" placeholder="сторона A">
+      <input type="text" class="form-control" name="tovar2" placeholder="сторона B">
+      <input type="text" class="form-control" name="tovar3" placeholder="сторона C">      
     </div>
   </div>
   <p></p>
-  <button type="submit" name="s" class="btn btn-primary">Посчитать</button>  
+  <button type="submit" name="submit" class="btn btn-primary">Посчитать</button>  
  </form>   
 <footer class="footer">
 
