@@ -49,7 +49,7 @@
     </div>
   </div>
   <p></p>
-  <button type="submit" name="s" class="btn btn-primary">Посчитать</button>  
+  <button type="submit" name="submit" class="btn btn-primary">Посчитать</button>  
  </form>   
 <footer class="footer">
 
